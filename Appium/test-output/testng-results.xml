@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-26T18:34:48 EDT" name="Default suite" finished-at="2024-07-26T18:35:08 EDT" duration-ms="20342">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T18:34:48 EDT" name="Default test" finished-at="2024-07-26T18:35:08 EDT" duration-ms="20342">
+      <class name="medicare.Appium.ReportsTest">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:medicare.Appium.ReportsTest@3bb9a3ff]" started-at="2024-07-26T18:34:48 EDT" name="configureAppium" finished-at="2024-07-26T18:34:52 EDT" duration-ms="3697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="SubmitEmptyReportTest()[pri:0, instance:medicare.Appium.ReportsTest@3bb9a3ff]" started-at="2024-07-26T18:34:52 EDT" name="SubmitEmptyReportTest" finished-at="2024-07-26T18:35:05 EDT" duration-ms="13265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitEmptyReportTest -->
+        <test-method signature="SubmitReportTest()[pri:1, instance:medicare.Appium.ReportsTest@3bb9a3ff]" started-at="2024-07-26T18:35:05 EDT" name="SubmitReportTest" finished-at="2024-07-26T18:35:08 EDT" duration-ms="3221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitReportTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:medicare.Appium.ReportsTest@3bb9a3ff]" started-at="2024-07-26T18:35:08 EDT" name="tearDown" finished-at="2024-07-26T18:35:08 EDT" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- medicare.Appium.ReportsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

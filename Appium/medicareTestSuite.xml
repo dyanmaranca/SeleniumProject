@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="MedicareTestSuite">
+    <classes>
+		<class name="medicare.Appium.Base"/>
+		<class name="medicare.Appium.LoginFailedTest"/>
+		<class name="medicare.Appium.LoginSuccess"/>
+		<class name="medicare.Appium.RegistrationTest"/>
+		<class name="medicare.Appium.InventoryTest"/>
+      	<class name="medicare.Appium.OrderTest"/>
+      	<class name="medicare.Appium.DistributionTest"/>
+    </classes>
+  </test> <!-- MedicareTestSuite -->
+</suite> <!-- Suite -->
